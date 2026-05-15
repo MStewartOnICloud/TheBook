@@ -1,4 +1,4 @@
-# "TheBook." 
+# "The Book." 
 
 A cosmogony in the style of Gnostic esoteric scripture based on modern cosmology, 
 theories of abiogenesis and neuroscience. The Book will trace history of the universe from
